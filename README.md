@@ -1,4 +1,4 @@
-# Tayyib Sheikh - Personal Website
+# Muhamamd Rahman - Personal Website
 
 A modern, responsive personal website built with HTML, CSS, and JavaScript. All data is stored locally without any external database dependencies.
 
